@@ -17,8 +17,7 @@ community that make adding new functionality easy.
 .. _Jinja: https://jinja.palletsprojects.com/
 
 
-Installing
-----------
+Installing---------
 
 Install and update using `pip`_:
 
